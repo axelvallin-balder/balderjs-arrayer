@@ -110,14 +110,6 @@ Tal 4: 9
 
 ## Extrauppgifter
 
-### 1
-Skriv ett program som delar upp ett telefonnumret i riktnummer och abonnentnummer på detta vis:
-```
-Telefonnummer med bindestreck: 0910-12345
-Riktnummer: 0910
-Abonnentnummer: 12345
-```
-Tips: Använd metoden indexOf för att hitta positionen för bindestrecket. Då man vet positionen kan man sedan dela upp numret i två delsträngar.
 ### 2
 Skriv ett program som kan lösa andragradsekvationer
 $$
