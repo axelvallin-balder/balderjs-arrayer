@@ -110,7 +110,7 @@ Tal 4: 9
 
 ## Extrauppgifter
 
-### 2
+### 7
 Skriv ett program som kan lösa andragradsekvationer
 $$
 x^2 + px + q = 0
