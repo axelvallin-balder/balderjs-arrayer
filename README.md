@@ -110,7 +110,7 @@ Tal 4: 9
 
 ## Extrauppgifter
 
-### 2
+### 1
 Skriv ett program som kan lösa andragradsekvationer
 $$
 x^2 + px + q = 0
@@ -119,7 +119,7 @@ $$
 x = -\frac{p}{2} \pm \sqrt{(\frac{p}{2})^2 - q}
 $$
 Svaren bör visas med en decimals noggrannhet.
-### 3
+### 2
 Gör klar uppgiften, matrix, nedan. Man ska alltså kunna se att matrisen förändras.
 ```
 // Skapa en 4x6-matris 
